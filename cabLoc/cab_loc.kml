@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+      <name>Cab Loc</name>
+      <open>1</open>
+      <description></description>
+        <Folder>
+           <name>Placemarks</name>
+             <description>mark your stop places</description>
+
+               <Placemark>
+                 <name>Adikmet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5128388,17.4069818,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Ashok Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4886912,17.4070355,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Azamabad,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.486671,17.385044,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Begumpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.469396,17.444865,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Aghapura,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4624064,17.3873082,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Airlines Colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.486671,17.385044,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Chikkadpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4943735,17.4044538,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Defence Colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5369806,17.4884825,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Gandhi Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4929529,17.4131072,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Musheerabad,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5050269,17.4101686,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Narayanaguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4901118,17.3969265,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Neredmet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5365974,17.4817756,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Padmarao Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5121286,17.4207735,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Sainikpuri,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5575676,17.4991468,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Sindhi Colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4830086,17.4401939,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Sitaphalmandi,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5199399,17.4248673,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Srinivasa Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4453532,17.4387245,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Warasiguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.514259,17.4172568,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>West Marredpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5007657,17.449237,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>West Venkatapuram,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4858499,17.2947875,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Shamirpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5703437,17.5450534,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kavadiguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4894015,17.4136287,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Hakimpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.408382,17.409643,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Boyiguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4965043,17.4271463,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Baghlingampally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.33,17.48,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Bachupally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3650231,17.5468498,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kukatpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.416667,17.483333,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Miyapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3614,17.4968,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Nizampet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3850394,17.5093264,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Pocharam Village,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.6437054,17.4318095,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Pragati Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3970205,17.5203424,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Vikarabad,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.486671,17.385044,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Chandrayana gutta,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5061667,17.3544379,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Chandanagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3324444,17.4874228,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>ACGuards,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4580069,17.4009069,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Masab Tank,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4496168,17.3996648,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Attapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4325615,17.3695573,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Humayun Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4446426,17.3971911,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Langar Houz,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4219955,17.3818622,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Mehdipatnam,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4325615,17.3986695,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Shanti Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4151479,17.4890086,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Tolichowki,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4325615,17.3986695,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kakatiya Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4247435,17.3945736,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Hayatnagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.392819,17.297785,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Hasmatpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4854018,17.4692433,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Gudi Malkapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4375362,17.3836754,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Golconda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4307672,17.37653,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Shankarpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.2753376,17.4091611,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Quathbullapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4609854,17.4993426,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Nallakunta,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5050269,17.4014324,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>OU Campus,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5263305,17.4128605,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>B.N. Reddy Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5632461,17.3130765,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Barkatpura,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4972145,17.3915153,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Habsiguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5476296,17.4068127,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Mirzalguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5318464,17.442101,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Tarnaka,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5405304,17.4282454,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Uppal,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.557939,17.405119,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Cherlapally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.606457,17.464458,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Ramanthapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5490494,17.3908771,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Dilsukhnagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5348507,17.3638489,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kothapet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5462098,17.3761525,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>L.B.Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5518889,17.3473615,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Malakpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.505896,17.374445,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Chaitanyapuri,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5391105,17.3771984,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Ibrahimpatnam,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5718972,17.3037665,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Adagutta,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3959408,17.5011148,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Nacharam,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.558173,17.434766,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Asif nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.451038,17.3866461,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Alwal,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5036065,17.4930942,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Amberpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4481956,17.4388906,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>D.D.Colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4013517,17.488377,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Moulali,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.486671,17.385044,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Safilguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5398204,17.4667989,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Saidabad,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5046617,17.3598893,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Bowenpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.478036,17.4653875,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>East Marredpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5107083,17.4454465,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Malkajgiri,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5263305,17.4478104,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Marredpally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5022699,17.4463951,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Medchal,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4719976,17.6402075,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Tirumalgiri,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.511915,17.473939,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Balanagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4461934,17.4682326,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kompally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.480804,17.538237,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Sikh Road,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4835413,17.4556969,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Jeedimetla,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4695111,17.5144063,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Chintal,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4592092,17.4945054,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Santosh Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4400235,17.3936462,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Falaknuma,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4666693,17.3307881,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Madhapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3911111,17.4405556,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Gachibowli,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.344397,17.437161,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Jubilee Hills,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.41266,17.4295317,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kondapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.364684,17.458218,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Tellapur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.285342,17.4664197,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Film Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4112384,17.4134352,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Anandnagar colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4568168,17.4122715,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Nampally,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.466964,17.38364,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Ameerpet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4481956,17.4388906,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Lakdi ka pul,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4624064,17.3989544,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Banjara Hills,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4382469,17.4164707,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Punjagutta,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.451038,17.4244971,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Basheerbagh,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4766152,17.3997816,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Domalguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4801671,17.4109076,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Himayathnagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.410445,17.493565,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Mahindra Hills,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.470589,17.392988,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Rajbhavan,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.457644,17.426797,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Somajiguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4595644,17.4191709,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Khairatabad,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4652483,17.4078551,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kachanbagh,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5083038,17.3337193,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Erramanzil,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4519885,17.4197898,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>B.K.Guda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4453532,17.4474605,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Motinagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4224534,17.4573226,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Sanjeevareddy Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4430281,17.4390002,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Srinagar Colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.3835117,17.400893,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Venkata Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5256204,17.3844262,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Yellareddyguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4418001,17.431965,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Yousufguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4368256,17.4324021,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kamalapuri Colony,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4290079,17.4283051,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Jawahar Nagar,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4915324,17.4072006,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Borabanda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4098167,17.4555705,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Balkampet,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4503274,17.4441112,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Bandlaguda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.576531,17.370116,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>J.P.Darga,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4934099,17.3529246,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kollur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.486671,17.385044,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Kothur,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.5583636,17.3802281,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Maheshwaram,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.4523226,17.4975871,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+               <Placemark>
+                 <name>Manikonda,Hyderabad,Andhra Pradesh,India</name>
+                 <Point>
+                  <coordinates>
+                    78.37569,17.3953399,0
+                  </coordinates>
+                 </Point>
+               </Placemark>
+
+        </Folder>
+    </Document>
+  </kml>
+

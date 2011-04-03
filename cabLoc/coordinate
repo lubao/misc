@@ -1,0 +1,41 @@
+{
+  "name": "Manikonda,Hyderabad,Andhra Pradesh,India",
+  "Status": {
+    "code": 200,
+    "request": "geocode"
+  },
+  "Placemark": [ {
+    "id": "p1",
+    "address": "Manikonda, Hyderabad, Andhra Pradesh, India",
+    "AddressDetails": {
+   "Accuracy" : 4,
+   "Country" : {
+      "AdministrativeArea" : {
+         "AdministrativeAreaName" : "Andhra Pradesh",
+         "SubAdministrativeArea" : {
+            "Locality" : {
+               "DependentLocality" : {
+                  "DependentLocalityName" : "Manikonda"
+               },
+               "LocalityName" : "Hyderabad"
+            },
+            "SubAdministrativeAreaName" : "Rangareddy"
+         }
+      },
+      "CountryName" : "India",
+      "CountryNameCode" : "IN"
+   }
+},
+    "ExtendedData": {
+      "LatLonBox": {
+        "north": 17.4379256,
+        "south": 17.3527442,
+        "east": 78.4397197,
+        "west": 78.3116603
+      }
+    },
+    "Point": {
+      "coordinates": [ 78.3756900, 17.3953399, 0 ]
+    }
+  } ]
+}

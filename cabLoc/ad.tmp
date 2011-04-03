@@ -1,0 +1,204 @@
+<schema id="0" name="Centra North West">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="13">
+				<choice name="Begumpet"/>
+				<choice name="Srinivasa Nagar"/>
+				<choice name="Quathbullapur"/>
+				<choice name="Amberpet"/>
+				<choice name="Balanagar"/>
+				<choice name="Chintal"/>
+				<choice name="Ameerpet"/>
+				<choice name="B.K.Guda"/>
+				<choice name="Motinagar"/>
+				<choice name="Sanjeevareddy Nagar"/>
+				<choice name="Borabanda"/>
+				<choice name="Balkampet"/>
+				<choice name="Maheshwaram"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="1" name="Centra North East">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="12">
+				<choice name="Sindhi Colony"/>
+				<choice name="West Marredpally"/>
+				<choice name="Hasmatpet"/>
+				<choice name="Mirzalguda"/>
+				<choice name="Alwal"/>
+				<choice name="Safilguda"/>
+				<choice name="Bowenpally"/>
+				<choice name="East Marredpally"/>
+				<choice name="Malkajgiri"/>
+				<choice name="Marredpally"/>
+				<choice name="Tirumalgiri"/>
+				<choice name="Sikh Road"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="2" name="Centra South West">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="26">
+				<choice name="Aghapura"/>
+				<choice name="Hakimpet"/>
+				<choice name="ACGuards"/>
+				<choice name="Masab Tank"/>
+				<choice name="Humayun Nagar"/>
+				<choice name="Mehdipatnam"/>
+				<choice name="Tolichowki"/>
+				<choice name="Kakatiya Nagar"/>
+				<choice name="Gudi Malkapur"/>
+				<choice name="Asif nagar"/>
+				<choice name="Santosh Nagar"/>
+				<choice name="Jubilee Hills"/>
+				<choice name="Film Nagar"/>
+				<choice name="Anandnagar colony"/>
+				<choice name="Nampally"/>
+				<choice name="Lakdi ka pul"/>
+				<choice name="Banjara Hills"/>
+				<choice name="Punjagutta"/>
+				<choice name="Mahindra Hills"/>
+				<choice name="Rajbhavan"/>
+				<choice name="Somajiguda"/>
+				<choice name="Khairatabad"/>
+				<choice name="Erramanzil"/>
+				<choice name="Yellareddyguda"/>
+				<choice name="Yousufguda"/>
+				<choice name="Kamalapuri Colony"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="3" name="Centra South East">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="25">
+				<choice name="Adikmet"/>
+				<choice name="Ashok Nagar"/>
+				<choice name="Azamabad"/>
+				<choice name="Airlines Colony"/>
+				<choice name="Chikkadpally"/>
+				<choice name="Gandhi Nagar"/>
+				<choice name="Musheerabad"/>
+				<choice name="Narayanaguda"/>
+				<choice name="Padmarao Nagar"/>
+				<choice name="Sitaphalmandi"/>
+				<choice name="Warasiguda"/>
+				<choice name="Kavadiguda"/>
+				<choice name="Boyiguda"/>
+				<choice name="Vikarabad"/>
+				<choice name="Nallakunta"/>
+				<choice name="OU Campus"/>
+				<choice name="Barkatpura"/>
+				<choice name="Tarnaka"/>
+				<choice name="Malakpet"/>
+				<choice name="Moulali"/>
+				<choice name="Basheerbagh"/>
+				<choice name="Domalguda"/>
+				<choice name="Venkata Nagar"/>
+				<choice name="Jawahar Nagar"/>
+				<choice name="Kollur"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="4" name="Outskirt North West">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="17">
+				<choice name="Baghlingampally"/>
+				<choice name="Bachupally"/>
+				<choice name="Kukatpally"/>
+				<choice name="Miyapur"/>
+				<choice name="Nizampet"/>
+				<choice name="Pragati Nagar"/>
+				<choice name="Chandanagar"/>
+				<choice name="Shanti Nagar"/>
+				<choice name="Adagutta"/>
+				<choice name="D.D.Colony"/>
+				<choice name="Medchal"/>
+				<choice name="Jeedimetla"/>
+				<choice name="Madhapur"/>
+				<choice name="Gachibowli"/>
+				<choice name="Kondapur"/>
+				<choice name="Tellapur"/>
+				<choice name="Himayathnagar"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="5" name="Outskirt North East">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="6">
+				<choice name="Defence Colony"/>
+				<choice name="Neredmet"/>
+				<choice name="Sainikpuri"/>
+				<choice name="Shamirpet"/>
+				<choice name="Cherlapally"/>
+				<choice name="Kompally"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="6" name="Outskirt South West">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="7">
+				<choice name="Attapur"/>
+				<choice name="Langar Houz"/>
+				<choice name="Hayatnagar"/>
+				<choice name="Golconda"/>
+				<choice name="Shankarpally"/>
+				<choice name="Falaknuma"/>
+				<choice name="Srinagar Colony"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
+<schema id="7" name="Outskirt South East">
+	<fields total="3" primary_field_id="0">
+		<field id="0" name="Driver ID" range="16"/>
+		<field id="1" name="Area" range="-3">
+			<choices total="18">
+				<choice name="West Venkatapuram"/>
+				<choice name="Pocharam Village"/>
+				<choice name="Chandrayana gutta"/>
+				<choice name="B.N. Reddy Nagar"/>
+				<choice name="Habsiguda"/>
+				<choice name="Uppal"/>
+				<choice name="Ramanthapur"/>
+				<choice name="Dilsukhnagar"/>
+				<choice name="Kothapet"/>
+				<choice name="L.B.Nagar"/>
+				<choice name="Chaitanyapuri"/>
+				<choice name="Ibrahimpatnam"/>
+				<choice name="Nacharam"/>
+				<choice name="Saidabad"/>
+				<choice name="Kachanbagh"/>
+				<choice name="Bandlaguda"/>
+				<choice name="J.P.Darga"/>
+				<choice name="Kothur"/>
+			</choices>
+		</field>
+		<field id="2" name="ETA" range="2"/>
+	</fields>
+</schema>
