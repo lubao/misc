@@ -1,0 +1,11 @@
+(dp1
+Vutc.localize(datetime.datetime.now()).astimezone(timezone('US/Eastern')).strftime(fmt)
+p2
+I47
+sVtime.time()
+p3
+I16
+sVpytz.timezone.__dict__
+p4
+I3
+s.

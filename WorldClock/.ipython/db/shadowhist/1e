@@ -1,0 +1,5 @@
+(dp1
+Vutc.localize(datetime.datetime.now()).astimezone(timezone('WST')).strftime(fmt)
+p2
+I43
+s.

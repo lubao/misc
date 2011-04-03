@@ -1,0 +1,5 @@
+(dp1
+Vfor key, value in TIME_ZONE.iteritems:\u000a    print key,value
+p2
+I50
+s.

@@ -1,0 +1,8 @@
+(dp1
+Vres.dest_time
+p2
+I17
+sVprint loc_utc.strftime(fmt)
+p3
+I35
+s.

@@ -1,0 +1,88 @@
+import pytz
+y
+import pytz
+y
+from pytz import common_timezones
+import ntplib
+from time import ctime
+c = ntplib.NTPClient()
+res =  c.request(1.north-america.pool.ntp.org)
+res =  c.request('1.north-america.pool.ntp.org')
+print res
+res.recv_time
+import time
+time.time(0
+)
+time.time()
+res.dest_time
+res.__dict__
+res.to_data(0
+)
+res.to_data()
+time.tzname
+from datetime import datetime
+from pytz import timezone
+import pytz
+eastern = timezone('US/Eastern')
+help(timezone)
+fmt = '%Y-%m-%d %H:%M:%S'
+loc_est = eastern.localize(datetime.datetime.now())
+import datetime
+datetime.datetime.now()
+loc_est = eastern.localize(datetime.datetime.now())
+print loc_est.strftime(fm)
+print loc_est.strftime(fmt)
+utc = timezone('UTC')
+loc_utc = utc.localize(datetime.datetime.now())
+fmt = '%Y-%m-%d %H:%M:%S %Z%z'
+print loc_utc.strftime(fm)
+print loc_utc.strftime(fmt)
+eastern_dt = loc_utc.astimezone(eastern)
+eastern_dt.strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(eastern).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('EST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('PST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('MST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('CST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('EST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('PST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('MST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('CST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('WST')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('US/Pacific')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('US/Mountain')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('US/Central')).strftime(fmt)
+utc.localize(datetime.datetime.now()).astimezone(timezone('US/Eastern')).strftime(fmt)
+TIME_ZONE = {'est':'US/Eastern',
+             'pst':'US/Pacific',
+             'mst':'US/Mountain',
+             'cst':'US/Central'}
+for key, valuse in TIME_ZONE:
+    print key,valuse
+    
+for key, value in TIME_ZONE.iteritems:
+    print key,value
+    
+utc.localize(datetime.datetime.now()).astimezone(timezone('US/Eastern')).strftime(fmt)
+timezone('CDT')
+time.time()
+datetime.datetime(time.time())
+
+eastern_dt = loc_utc.astimezone(eastern)
+utc.localize(datetime.datetime.now()).astimezone(timezone('CST')).strftime(fmt)
+time.gmtime()
+UTC = timezone('UTC')
+UTC.localize(time.gmtime())
+localtime()
+time.localtime()
+time.localtime(time.gmtime)
+time.gmtime
+time.time()
+datetime(time.gmtime(time.time()))
+(time.gmtime(time.time()))
+UTC.localize(time.gmtime(time.time()))
+UTC.localize(time.localize(time.time()))
+UTC.localize(time.localized(time.time()))
+UTC.localize(time.localtime(time.time()))
+	
+y

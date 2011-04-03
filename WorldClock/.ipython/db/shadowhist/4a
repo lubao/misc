@@ -1,0 +1,5 @@
+(dp1
+Vutc.localize(datetime.datetime.now()).astimezone(timezone('US/Mountain')).strftime(fmt)
+p2
+I45
+s.

@@ -1,0 +1,5 @@
+(dp1
+Vutc.localize(datetime.datetime.now()).astimezone(timezone('MST')).strftime(fmt)
+p2
+I41
+s.

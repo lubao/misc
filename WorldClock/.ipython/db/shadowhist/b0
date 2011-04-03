@@ -1,0 +1,8 @@
+(dp1
+Veastern = timezone('US/Eastern')
+p2
+I23
+sVloc_est = eastern.localize(datetime.datetime.now())
+p3
+I26
+s.

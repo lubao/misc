@@ -1,0 +1,8 @@
+(dp1
+Vprint res
+p2
+I11
+sVutc.localize(datetime.datetime.now()).astimezone(timezone('CST')).strftime(fmt)
+p3
+I42
+s.
