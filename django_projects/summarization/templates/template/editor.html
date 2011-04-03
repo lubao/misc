@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Summarization Search Tag Feature Editor</title>
+<!-- jQuery -->
+<script type="text/javascript" src="/markitup/jquery-1.4.2.min.js"></script>
+<!-- markItUp! -->
+<script type="text/javascript" src="/markitup/markitup/jquery.markitup.js"></script>
+<!-- markItUp! toolbar settings -->
+<script type="text/javascript" src="/markitup/markitup/sets/summarizations/set.js"></script>
+<!-- markItUp! skin -->
+<link rel="stylesheet" type="text/css" href="/markitup/markitup/skins/markitup/style.css" />
+<!--  markItUp! toolbar skin -->
+<link rel="stylesheet" type="text/css" href="/markitup/markitup/sets/summarizations/style.css" />
+<style>
+div : { position : relative ; float : center; } 
+</style>
+</head>
+<body>
+<script type="text/javascript">
+<!--
+$(document).ready(function()	{
+	// Add markItUp! to your textarea in one line
+	// $('textarea').markItUp( { Settings }, { OptionalExtraSettings } );
+	$('#markItUp').markItUp(summarizationSettings);
+	
+        $('#ajax_save').click(function() { 
+         $.post('../tagFeature/',{act:'save', id:$('#record_id').val(), content:$('#markItUp').val() },function(res){alert("Saved");});
+       }); //close click(
+        $('#ajax_next').click(function() { 
+         $.post('../tagFeature/',{act:'next', id:$('#record_id').val(), content:$('#markItUp').val() },
+                  function(res){
+                     alert('Current Record ID:'+res);
+                     $('#record_id').attr('value',res['id']);
+                     $('#markItUp').attr('value',res['content']);
+                 },'json');
+       }); 
+});
+-->
+</script>
+<form> {% csrf_token %}
+<input type='hidden' id="record_id" value="{{ id }}"/>
+<div><p>
+<textarea id="markItUp" >
+"{{ content }}"
+</textarea>
+</p></div>
+<input type="button" id="ajax_save" value="Save"/>
+<input type="button" id="ajax_next" value="Next"/>
+</form>
+</body>
+</html>

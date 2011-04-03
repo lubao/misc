@@ -1,0 +1,40 @@
+<CTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<script type="text/javascript" src="http://lupaul.net/static/jquery/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://lupaul.net/static/jquery/js/jquery-ui-1.8.9.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://lupaul.net/static/jquery/css/redmond/jquery-ui-1.8.9.custom.css">
+<script>
+    $(function() {
+        $( "#accordion" ).accordion();
+    });
+    $(function() {
+        $( "#tabs" ).tabs();
+    });
+</script>
+
+
+<head> <title>{% block title %}MyBlog{% endblock %}</title> </head>
+
+<body>
+    <h2>Blog</h2>
+    <div id="sidebar"> {% block sidebar %} {% endblock %} </div>
+    <div id="container">
+        <div id="tabs">
+            {% block nav-global %}
+                <!-- MENU -->
+                {% if user.is_authenticated %}
+                <a href="{% url admin:index %}">Admin</a>
+                <a href="{% url admin:blog_post_add %}">Add post</a>
+                {% else %}
+                <a href="/accounts/login">Login</a>
+                {% endif %}
+            {% endblock %}
+        </div>
+        <div id="accordion">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>UjU App Creator</title>
+
+    <!-- Framework CSS -->
+    <link rel="stylesheet" href="/webMedia/blueprint/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="/webMedia/blueprint/blueprint/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]><link rel="stylesheet" href="../blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <!--style type="text/css" media="screen">
+      p, table, hr, .box { margin-bottom:25px; }
+      .box p { margin-bottom:10px; }
+    </style-->
+    <style>
+     {% block extStyle%}{% endblock %}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>UjU App Creator</h1>
+      <table border="0" cellspacing="0" cellpadding="0">
+      	<thead>
+	  <tr>
+  	   <th class="span-8"><a href="/genConfig/genMyApp/showAppForm/">Create New App</a></th>
+    	   <th class="span-8"><a href="/genConfig/genMyForm/showOpForm/">Create New Operation Form</a></th>
+      	   <!--th class="span-16"><a href="/genConfig/sumSearch/search/">Craigslist Search</a></th>
+      	   <th class="span-16"><a href="/sAppDocs">Docs</a></th-->
+          </tr>
+        </thead>
+     </table>
+   </div>
+   <div class="container">
+   {% block content %}{% endblock %}
+   </div>
+  </body>
+</html>

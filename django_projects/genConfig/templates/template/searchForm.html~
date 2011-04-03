@@ -1,0 +1,26 @@
+{% extends "template/base.html" %}
+<!DOCTYPE html>
+
+{% block extStyle %}
+fieldset { border : solid 2px #2244BB; margin : 15px; position : relative; padding : 10px}
+legend {font-family : Lucida Console}
+{% endblock %}
+
+{% block content %}
+<form id="serach" action ="../result/" method="POST"> {% csrf_token %}
+ <fieldset id="cond">
+  <legend>Used Car</legend>
+   <div ><label>Model: </label> <input type="text" name="Model" class="required"></div>
+   <div ><label>Start Year :</label> <input type="text" name="sYear" class="required"></div>
+   <div ><label>End   Year :</label> <input type="text" name="eYear" class="required"></div>
+   <div ><label>Start Price: </label> <input type="text" name="sPrice" class="required"></div>
+   <div ><label>End   Price: </label><input type="text" name="ePrice" class="required"></div>
+ </fieldset>
+ <input type="submit" value="SUBMIT">
+</form>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
+<div class="container">
+{% block result %}{% endblock%}
+</div>
+{% endblock %}

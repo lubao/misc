@@ -1,0 +1,11 @@
+
+ur activation key: {{ activation_key }}
+
+Please use this link to activate your account:
+
+http://lupaul.net:8000/accounts/activate/{{ activation_key }}/
+
+After activation you can login to the site:
+
+http://lupaul.net:8000/accounts/login/
+

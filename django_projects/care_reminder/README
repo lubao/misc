@@ -1,0 +1,6 @@
+Requirement:
+sudo apt-get install mysql-server python-django gammu gammu-smsd usb-modeswitch
+For installation info : dpkg --listfiles [pkg name] 
+Configure MySQL:
+	Table details : /usr/share/doc/gammu/example/sql/
+	run CreateDB.sh	
