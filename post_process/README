@@ -1,0 +1,10 @@
+msbox.log.1 | grep 'Parsing URL' >> url
+ 1812  zcat smsbox.log.2.gz | grep 'Parsing URL' >> url
+ 1823  zcat smsbox.log.3.gz | grep 'Parsing URL' >> url
+ 1824  zcat smsbox.log.4.gz | grep 'Parsing URL' >> url
+ 1825  zcat smsbox.log.5.gz | grep 'Parsing URL' >> url
+ 1826  zcat smsbox.log.6.gz | grep 'Parsing URL' >> url
+ 1827  zcat smsbox.log.7.gz | grep 'Parsing URL' >> url
+ 1828  zcat smsbox.log.8.gz | grep 'Parsing URL' >> url
+ 1829  zcat smsbox.log.9.gz | grep 'Parsing URL' >> url
+
